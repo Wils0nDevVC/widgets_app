@@ -32,7 +32,7 @@ class AppTheme {
     useMaterial3: true,
     colorSchemeSeed: colorList[selectedColor],
     appBarTheme: AppBarTheme(
-      centerTitle: true
+      centerTitle: false
     )
   );
 
